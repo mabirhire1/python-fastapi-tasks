@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2025-08-07 20:50:06",
+        "category": "Education",
+        "amount": 500000.0
+    },
+    {
+        "date": "2025-08-07 20:50:40",
+        "category": "Feeding",
+        "amount": 200000.0
+    },
+    {
+        "date": "2025-08-07 20:51:07",
+        "category": "Transportation",
+        "amount": 100000.0
+    }
+]

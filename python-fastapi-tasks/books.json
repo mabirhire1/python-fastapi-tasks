@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Eze Goes To School",
+        "author": "Cyprian Ekwensi",
+        "price": 5000,
+        "stock": 50
+    },
+    {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "price": 10000,
+        "stock": 100
+    },
+    {
+        "title": "Pepper Soup And The Road Ibadan",
+        "author": "Wole Soyinka",
+        "price": 2550,
+        "stock": 20
+    },
+    {
+        "title": "Salute To The Elephant",
+        "author": "John Pepper Clark",
+        "price": 2000,
+        "stock": 15
+    }
+]

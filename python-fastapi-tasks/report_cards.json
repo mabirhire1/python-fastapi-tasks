@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Samuel Joe",
+        "scores": {
+            "Mathematics": 100.0,
+            "English": 80.0,
+            "Geography": 87.0
+        },
+        "average": 89.0,
+        "grade": "B"
+    },
+    {
+        "name": "Omax Agofure",
+        "scores": {
+            "Mathematics": 100.0,
+            "English": 100.0,
+            "Chemistry": 94.0,
+            "Physics": 95.0,
+            "Biology": 100.0
+        },
+        "average": 97.8,
+        "grade": "A"
+    }
+]
